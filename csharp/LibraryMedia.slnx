@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LibraryMedia/LibraryMedia.csproj" />
+  <Project Path="LibraryMedia.Tests/LibraryMedia.Tests.csproj" />
+</Solution>
